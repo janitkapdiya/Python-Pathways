@@ -3,5 +3,7 @@
 
 import pyttsx3
 engine = pyttsx3.init()
-engine.say("Hello Janit!")
+engine.say("Welcome Kapadiya, How are you?") #Place your text here!
+print("Speaking...")
 engine.runAndWait()
+print("Completed")
